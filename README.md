@@ -4,4 +4,4 @@ In this project, I created my own web page to introduce myself and give you some
 
  By when clicking on the button " Welcome to My GitHub" , you will be redirected to my GitHub page.
 
- <img width="1904" height="898" alt="Screen1" src="https://github.com/user-attachments/assets/05dbd805-3981-4d23-a946-64ad0ffcf159" />
+<img width="1896" height="906" alt="Screen1" src="https://github.com/user-attachments/assets/d7b8244d-996f-496c-96f3-680d400dd5fc" />
